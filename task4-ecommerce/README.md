@@ -120,4 +120,39 @@ task4-ecommerce/
 ```
 
 ## Screenshots
-_Add screenshots of the home page, catalog, product page, cart, checkout, order tracking and admin dashboard here for the submission._
+
+### Home
+![Home](screenshots/01-home.png)
+
+### Catalog
+![Catalog](screenshots/02-catalog.png)
+
+### Product
+![Product](screenshots/03-product.png)
+
+### Cart
+![Cart](screenshots/04-cart.png)
+
+### Checkout
+![Checkout](screenshots/05-checkout.png)
+
+### My orders
+![My orders](screenshots/06-my-orders.png)
+
+### Order tracking
+![Order tracking](screenshots/07-order-tracking.png)
+
+### Admin – dashboard
+![Admin – dashboard](screenshots/08-admin-dashboard.png)
+
+### Admin – products
+![Admin – products](screenshots/09-admin-products.png)
+
+### Admin – edit product
+![Admin – edit product](screenshots/10-admin-edit-product.png)
+
+### Admin – orders
+![Admin – orders](screenshots/11-admin-orders.png)
+
+### Mobile
+<img src="screenshots/12-mobile-home.png" alt="Mobile – home" width="320">

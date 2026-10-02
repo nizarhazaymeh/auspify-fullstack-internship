@@ -112,4 +112,21 @@ task3-expense-tracker/
 ```
 
 ## Screenshots
-_Add screenshots of the dashboard, transactions, reports and login pages here for the submission._
+
+### Login
+![Login](screenshots/01-login.png)
+
+### Dashboard
+![Dashboard](screenshots/02-dashboard.png)
+
+### Transactions
+![Transactions](screenshots/03-transactions.png)
+
+### Add transaction
+![Add transaction](screenshots/04-add-transaction.png)
+
+### Reports
+![Reports](screenshots/05-reports.png)
+
+### Mobile
+<img src="screenshots/06-mobile-dashboard.png" alt="Mobile – dashboard" width="320">

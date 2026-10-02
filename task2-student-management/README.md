@@ -111,4 +111,18 @@ curl -X POST http://localhost:5050/api/students \
 `400` invalid input · `404` not found · `409` duplicate email or student ID · `500` server error
 
 ## Screenshots
-_Add screenshots of the list, details, add/edit form and delete dialog here for the submission._
+
+### Student list
+![Student list](screenshots/01-student-list.png)
+
+### Student details
+![Student details](screenshots/02-student-details.png)
+
+### Add student validation
+![Add student validation](screenshots/03-add-student-validation.png)
+
+### Delete confirmation
+![Delete confirmation](screenshots/04-delete-confirmation.png)
+
+### Mobile
+<img src="screenshots/05-mobile-list.png" alt="Mobile – list" width="320">
