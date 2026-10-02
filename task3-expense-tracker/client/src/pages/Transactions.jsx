@@ -42,7 +42,9 @@ export default function Transactions() {
   const filters = { type, category, search: q, from: range.from, to: range.to };
 
   // Reset to page 1 whenever the filters change.
-  useEffect(() => setPage(1), [type, category, q, range.from, range.to, sort]);
+  useEffect(() => {
+    setPage(1);
+  }, [type, category, q, range.from, range.to, sort]);
 
   useEffect(() => {
     if (customIncomplete) return undefined;

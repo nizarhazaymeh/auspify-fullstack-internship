@@ -18,7 +18,9 @@ export function AuthProvider({ children }) {
   }, []);
 
   // Any 401 from the API (expired session) drops the user back to the login page.
-  useEffect(() => setUnauthorizedHandler(() => setUser(null)), []);
+  useEffect(() => {
+    setUnauthorizedHandler(() => setUser(null));
+  }, []);
 
   const login = useCallback(async (creds) => {
     const { user: u } = await authApi.login(creds);
