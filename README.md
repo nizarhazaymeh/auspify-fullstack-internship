@@ -4,18 +4,17 @@ Project submissions for the Auspify Technologies 4-week Full Stack Development i
 
 | # | Level | Project | Folder |
 |---|---|---|---|
-| 1 | Easy | Personal Portfolio Website | [`task1-portfolio/`](task1-portfolio) |
+| 1 | Easy | Personal Portfolio Website | **[Live site](https://nizarhazaymeh.github.io/)** · [`task1-live-portfolio/`](task1-live-portfolio) |
 | 2 | Easy | Student Management System | [`task2-student-management/`](task2-student-management) |
 | 3 | Medium | Expense Tracker Web Application | [`task3-expense-tracker/`](task3-expense-tracker) |
 | 4 | Medium | E-Commerce Website | [`task4-ecommerce/`](task4-ecommerce) |
 
 Each folder has its own README with setup instructions, features and screenshots.
 
+> Task 1 is submitted as my deployed portfolio at **https://nizarhazaymeh.github.io/** (source: [nizarhazaymeh.github.io](https://github.com/nizarhazaymeh/nizarhazaymeh.github.io)). The `task1-portfolio/` folder is a React portfolio template built during the internship and is not part of the submission.
+
 ## Quick start
 ```bash
-# Task 1
-cd task1-portfolio && npm install && npm run dev                    # http://localhost:5173
-
 # Task 2 (two terminals)
 cd task2-student-management/server && npm install && npm run dev    # needs server/.env (MongoDB Atlas)
 cd task2-student-management/client && npm install && npm run dev    # http://localhost:5174
