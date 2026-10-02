@@ -8,3 +8,13 @@ Project submissions for the Auspify Technologies 4-week Full Stack Development i
 | 2 | Easy | Student Management System | [`task2-student-management/`](task2-student-management) |
 
 Each folder has its own README with setup instructions, features and screenshots.
+
+## Quick start
+```bash
+# Task 1
+cd task1-portfolio && npm install && npm run dev                    # http://localhost:5173
+
+# Task 2 (two terminals)
+cd task2-student-management/server && npm install && npm run dev    # needs server/.env (MongoDB Atlas)
+cd task2-student-management/client && npm install && npm run dev    # http://localhost:5174
+```
